@@ -35,7 +35,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn add react-scripts@latest
+### `yarn add react-scripts@latest`
 
 When new versions of Create React App are released, you can upgrade using this single command.
 
