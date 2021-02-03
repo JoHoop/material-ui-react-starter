@@ -1,4 +1,4 @@
-# React Template with Material UI
+# Create React App with Material UI (Template)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses [Material-UI](https://material-ui.com) components and theming.
 
